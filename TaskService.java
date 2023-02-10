@@ -15,7 +15,7 @@ public class TaskService {
 	}
 
 /*
- *  Add new contact to vector	
+ *  Add new task to vector	
  */	
 	
 	public void addTask(String id, String name, String description) {
