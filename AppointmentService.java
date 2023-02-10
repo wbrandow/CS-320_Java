@@ -33,7 +33,7 @@ public class AppointmentService {
 	}
 	
 /*
- *  Delete existing task	
+ *  Delete existing appointment	
  */
 	public void deleteAppointment(String id) {
 			
